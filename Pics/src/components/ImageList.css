@@ -1,0 +1,11 @@
+.image-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: space-around;
+    align-items: baseline;
+}
+
+.img {
+    padding: 100px;
+}
